@@ -1,4 +1,4 @@
-package com.activemq;
+package com.activemq.queue;
 
 import static org.junit.Assert.assertTrue;
 
